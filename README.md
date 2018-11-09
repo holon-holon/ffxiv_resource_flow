@@ -1,0 +1,1 @@
+Calculates and optimises the flow of various resources through the game, e.g. money, achievement points, tomestones, etc. Aims to be exhaustive.
